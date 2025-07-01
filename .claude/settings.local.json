@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git checkout:*)",
+      "Bash(gh api:*)",
+      "Bash(git branch:*)",
+      "Bash(git reset:*)",
+      "Bash(git update-ref:*)",
+      "Bash(GIT_AUTHOR_NAME=\"gurugrv\" GIT_AUTHOR_EMAIL=\"gurugrv@users.noreply.github.com\" GIT_COMMITTER_NAME=\"gurugrv\" GIT_COMMITTER_EMAIL=\"gurugrv@users.noreply.github.com\" git commit -m \"Initial commit: Node.js React Next.js template with shadcn/ui and Tailwind CSS\")"
+    ],
+    "deny": []
+  }
+}
